@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '8464'
     url: http://www.gutenberg.org/2009/agents/8464
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19098#Christmas-in-Ritual-and-Tradition-Christian-and-Pagan
 gutenberg_bookshelf: Christmas
 gutenberg_issued: '2006-08-21'
 gutenberg_type: Text
